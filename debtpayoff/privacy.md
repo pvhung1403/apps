@@ -1,6 +1,8 @@
 ---
 title: Unowed Privacy Policy
-permalink: /unowed/privacy/
+permalink: /debtpayoff/privacy/
+redirect_from:
+  - /unowed/privacy/
 ---
 # Unowed Privacy Policy
 
@@ -56,3 +58,5 @@ If this policy changes, we will update this page and its effective date.
 ## Contact
 
 Questions? Email [pvhung1403@gmail.com](mailto:pvhung1403@gmail.com).
+
+[← Unowed](../) · [All apps](../../)
