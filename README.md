@@ -4,13 +4,13 @@ Public privacy policy and support pages for my iOS apps, served by GitHub Pages 
 
 ## Layout
 - `index.md` — list of all apps.
-- `<slug>/` — one folder per app; `<slug>` = the bundle ID suffix (`com.hungpv.debtpayoff` → `debtpayoff`), so URLs stay
+- `<slug>/` — one folder per app; `<slug>` = the bundle ID suffix (`com.hungpv.unowed` → `unowed`), so URLs stay
   valid if the App Store name changes. Each has `index.md` (about), `privacy.md`, `support.md`.
 - `_template/` — copy for a new app (not published: folders starting with `_` are skipped by Jekyll).
 
 | App | Slug | Source docs |
 |---|---|---|
-| Unowed: Debt Payoff Planner | `debtpayoff` | `debt-payoff-ios/Docs/` |
+| Unowed: Debt Payoff Planner | `unowed` | `apps/Unowed/Docs/` |
 
 ## Add a new app
 1. `cp -R _template <slug>` and replace `APP_NAME`, `APP_SLUG`, `ONE_PARAGRAPH_DESCRIPTION`.

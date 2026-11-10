@@ -1,8 +1,8 @@
 ---
 title: Unowed: Debt Payoff Planner
-permalink: /debtpayoff/
+permalink: /unowed/
 redirect_from:
-  - /unowed/
+  - /debtpayoff/
 ---
 # Unowed: Debt Payoff Planner
 

@@ -1,8 +1,8 @@
 ---
 title: Unowed Support
-permalink: /debtpayoff/support/
+permalink: /unowed/support/
 redirect_from:
-  - /unowed/support/
+  - /debtpayoff/support/
 ---
 # Unowed Support
 
@@ -48,7 +48,7 @@ iOS Settings › your name › Subscriptions › Unowed, or in the app: Settings
 Lifetime is a one-time purchase and never renews.
 
 **Does the app collect my data?**
-No. See the [Privacy Policy](https://hungpv143.github.io/apps/debtpayoff/privacy/).
+No. See the [Privacy Policy](https://pvhung1403.github.io/apps/unowed/privacy/).
 
 **Can I get my data out?**
 Yes, free: Settings › **Export debts & payments (CSV)**. Your history is never locked.

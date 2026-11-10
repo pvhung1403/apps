@@ -1,8 +1,8 @@
 ---
 title: Unowed Privacy Policy
-permalink: /debtpayoff/privacy/
+permalink: /unowed/privacy/
 redirect_from:
-  - /unowed/privacy/
+  - /debtpayoff/privacy/
 ---
 # Unowed Privacy Policy
 
