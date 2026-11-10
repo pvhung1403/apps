@@ -11,6 +11,7 @@ Public privacy policy and support pages for my iOS apps, served by GitHub Pages 
 | App | Slug | Source docs |
 |---|---|---|
 | Unowed: Debt Payoff Planner | `unowed` | `apps/Unowed/Docs/` |
+| Halfway: Daily Globe Game | `halfway` | `apps/Halfway/Docs/` |
 
 ## Add a new app
 1. `cp -R _template <slug>` and replace `APP_NAME`, `APP_SLUG`, `ONE_PARAGRAPH_DESCRIPTION`.

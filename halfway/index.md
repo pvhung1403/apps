@@ -1,6 +1,8 @@
 ---
 title: "Halfway: Daily Globe Game"
-permalink: /midpoint/
+permalink: /halfway/
+redirect_from:
+  - /midpoint/
 ---
 # Halfway: Daily Globe Game
 

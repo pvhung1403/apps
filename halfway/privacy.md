@@ -1,6 +1,8 @@
 ---
 title: Halfway Privacy Policy
-permalink: /midpoint/privacy/
+permalink: /halfway/privacy/
+redirect_from:
+  - /midpoint/privacy/
 ---
 # Halfway Privacy Policy
 

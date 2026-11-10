@@ -9,6 +9,6 @@ Independent iOS apps. No accounts, no ads, no tracking.
 |---|---|---|---|
 | **Unowed: Debt Payoff Planner** | [About](unowed/) | [Privacy Policy](unowed/privacy/) | [Support](unowed/support/) |
 | **CapyWater: Cute Water Tracker** | [About](capywater/) | [Privacy Policy](capywater/privacy/) | [Support](capywater/support/) |
-| **Halfway: Daily Globe Game** | [About](midpoint/) | [Privacy Policy](midpoint/privacy/) | [Support](midpoint/support/) |
+| **Halfway: Daily Globe Game** | [About](halfway/) | [Privacy Policy](halfway/privacy/) | [Support](halfway/support/) |
 
 Contact: [pvhung1403@gmail.com](mailto:pvhung1403@gmail.com)

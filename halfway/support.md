@@ -1,6 +1,8 @@
 ---
 title: Halfway Support
-permalink: /midpoint/support/
+permalink: /halfway/support/
+redirect_from:
+  - /midpoint/support/
 ---
 # Halfway Support
 
