@@ -8,7 +8,7 @@ redirect_from:
 
 _Effective date: November 8, 2026_
 
-Unowed: Debt Payoff Planner ("the app") is made by PHAM VAN HUNG ("we", "us"). This policy explains
+Unowed: Debt Payoff Planner ("the app") is made by Hung Pham ("we", "us"). This policy explains
 what happens to your information when you use the app. Short version: **we don't collect it.**
 
 ## What we collect

@@ -6,7 +6,7 @@ permalink: /capywater/privacy/
 
 _Effective date: November 6, 2026_
 
-CapyWater ("the app") is made by PHAM VAN HUNG ("we", "us"). This policy explains what happens
+CapyWater ("the app") is made by Hung Pham ("we", "us"). This policy explains what happens
 to your information when you use the app. Short version: **we don't collect it.**
 
 ## What we collect
