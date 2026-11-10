@@ -1,6 +1,6 @@
 # apps
 
-Public privacy policy and support pages for my iOS apps, served by GitHub Pages at https://hungpv143.github.io/apps/.
+Public privacy policy and support pages for my iOS apps, served by GitHub Pages at https://pvhung1403.github.io/apps/.
 
 ## Layout
 - `index.md` — list of all apps.
@@ -15,7 +15,7 @@ Public privacy policy and support pages for my iOS apps, served by GitHub Pages 
 ## Add a new app
 1. `cp -R _template <slug>` and replace `APP_NAME`, `APP_SLUG`, `ONE_PARAGRAPH_DESCRIPTION`.
 2. Paste the app's `Docs/PrivacyPolicy.md` and `Docs/Support.md` into `privacy.md` / `support.md` (keep the front matter).
-3. Add a row to `index.md`, commit, push. Live in ~1 minute at `https://hungpv143.github.io/apps/<slug>/privacy/`.
+3. Add a row to `index.md`, commit, push. Live in ~1 minute at `https://pvhung1403.github.io/apps/<slug>/privacy/`.
 4. Put those two URLs in the app (`AppConfiguration`) and in App Store Connect.
 
 ## Update a page
